@@ -10,3 +10,6 @@ Projeto pra entender a diferença entre elemento de bloco (`<div>`) e elemento i
 ## Arquivos
 
 - `index.html` — página principal
+
+---
+[Ver online](https://mirandaromario09.github.io/estudo-html-div-span)
